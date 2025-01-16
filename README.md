@@ -10,12 +10,12 @@ A simple yet powerful REST API demonstration using FastAPI and Azure Cosmos DB E
 - Postman collection included
 
 ## Project Structure
-
+```vbnet
 cosmos-fastapi-demo/
 ├── main.py           # Main FastAPI application
 ├── README.md         # Documentation
 └── requirements.txt  # Dependencies
-
+```
 
 ## Quick Start
 
